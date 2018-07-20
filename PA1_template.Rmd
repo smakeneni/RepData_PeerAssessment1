@@ -124,4 +124,4 @@ xyplot(steps~interval | day, stepsperday, type="l", layout = c(1,2), xlab="Inter
 ```
 
 
->>>>>>> first commit
+
