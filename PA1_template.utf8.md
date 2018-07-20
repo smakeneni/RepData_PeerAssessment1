@@ -1,3 +1,5 @@
+
+
 title: "courseproject1"
 output: html_document
 ---
@@ -170,4 +172,4 @@ xyplot(steps~interval | day, stepsperday, type="l", layout = c(1,2), xlab="Inter
 <img src="PA1_template_files/figure-html/Figure4-1.png" width="672" />
 
 
->>>>>>> first commit
+
